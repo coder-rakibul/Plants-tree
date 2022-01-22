@@ -29,7 +29,7 @@ Clone this project hear: `https://github.com/coder-rakibul/Plant-site.git`
 <br/>
 <!-- Live prevew link -->
 
-# [🔴Live prevew this project.](https://coder-rakibul.github.io/Plant-site/)
+# [🔴Live prevew this project.](https://coder-rakibul.github.io/Plants-tree/)
 
 <!-- Images -->
 <br/>
